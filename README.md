@@ -10,6 +10,17 @@ From aim assist to ESP, auto-mining to anti-knockback, this client has it all �
 
 ---
 
+## 🧠 One EXE. Infinite Power.
+
+Just **run `PhantomClient.exe`** and:
+
+1. ✅ **Choose your Minecraft version** (supports 1.16 – 1.21.x )
+2. ⚙️ It will **automatically install Forge** for that version if not already installed
+3. 🎮 Launch Minecraft directly with PhantomClient pre-loaded
+4. 🧰 Use a sleek, built-in UI to enable modules, explore features, and experiment in singleplayer mode
+
+> No Java config, no drag & drop mods, no external installers. Just click and go.
+
 ## 🚀 Core Highlights
 
 - ⚔️ Combat Automation – Killaura, CrystalAura, TriggerBot, MultiAura
